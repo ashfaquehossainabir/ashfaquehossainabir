@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-</p>
 <h1 align="center">Hi 👋, I'm Ashfaque Hossain Abir! </h1>
 <p align="center">
 🔥 I'm a passionate Freelance FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
@@ -41,6 +38,12 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="60" height="60"/> </a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a>
 <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="60" height="60"/> </a>
+</p>
+
+<br><br>
+
+<p align="center">
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
 
 <br><br>
