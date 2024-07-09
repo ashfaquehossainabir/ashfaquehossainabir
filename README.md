@@ -2,12 +2,12 @@
 
 ## You Know Me?
 
-<p align="left"> <a href="https://github.com/Abirett"><img src="https://komarev.com/ghpvc/?username=ashfaquehossainabir&label=Profile%20views&color=0e75b6&style=flat" alt="A.H. Abir" /></a> </p>
+<p align="left"> <a href="https://github.com/ashfaquehossainabir"><img src="https://komarev.com/ghpvc/?username=ashfaquehossainabir&label=Profile%20views&color=0e75b6&style=flat" alt="A.H. Abir" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
   <br/>
-<p align="left"> <a href="https://github.com/Abirett"><img src="https://github-profile-trophy.vercel.app/?username=ashfaquehossainabir" alt="A.H. Abir" /></a> </p>
+<p align="left"> <a href="https://github.com/ashfaquehossainabir"><img src="https://github-profile-trophy.vercel.app/?username=ashfaquehossainabir" alt="A.H. Abir" /></a> </p>
 
 </details>
 
@@ -17,7 +17,7 @@
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirett)](https://github.com/ashfaquehossainabir)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaquehossainabir)](https://github.com/ashfaquehossainabir)
 
 </details>
 
