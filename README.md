@@ -85,4 +85,4 @@ I'm a software developer based in Dhaka, Bangladesh, working across Python, auto
 - 🎨 Behance: [abirett](https://www.behance.net/abirett)
 - ✉️ Email: ashfaquehossain300@gmail.com
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories and connect!</i></p>
+<p align="center"><i>Thanks for stopping by feel free to explore my repositories and connect!</i></p>
