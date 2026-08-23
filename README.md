@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a software developer based in Dhaka, Bangladesh, working across Python, automation, and web technologies. I enjoy building practical tools — from browser automation scripts to Telegram bots and interactive web apps — and I maintain a growing collection of open-source repositories, including curated interview-preparation resources for JavaScript and React that other developers use to sharpen their skills. I'm always open to collaborating on interesting projects, so feel free to reach out.
+I'm a software developer based in Dhaka, Bangladesh, working across Python, automation, and web technologies. I enjoy building practical tools from browser automation scripts to Telegram bots and interactive web apps and I maintain a growing collection of open-source repositories, including curated interview-preparation resources for JavaScript and React that other developers use to sharpen their skills. I'm always open to collaborating on interesting projects, so feel free to reach out.
 
 ---
 
