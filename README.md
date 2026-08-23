@@ -33,8 +33,6 @@ I'm a software developer based in Dhaka, Bangladesh, working across Python, auto
 
 <p>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" title="Selenium"/>
-<img src="https://raw.githubusercontent.com/pyrogram/logos/fe16a72cae833fcabf1f79ca0b33cee6af2f3bc3/logos/pyrogram.svg" width="40" title="Pyrogram"/>
-</p>
 
 **Databases**
 
@@ -75,19 +73,6 @@ I'm a software developer based in Dhaka, Bangladesh, working across Python, auto
 | [react-interview-question-2](https://github.com/ashfaquehossainabir/react-interview-question-2) | React interview questions and practice examples | HTML |
 | [react-interview-question-3](https://github.com/ashfaquehossainabir/react-interview-question-3) | React interview questions and practice examples | HTML |
 | [react-todo-app](https://github.com/ashfaquehossainabir/react-todo-app) | A to-do list application built with React | JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashfaquehossainabir&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaquehossainabir&layout=compact" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashfaquehossainabir" alt="GitHub Trophies"/>
-</p>
 
 ---
 
